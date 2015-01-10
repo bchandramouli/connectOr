@@ -1,0 +1,29 @@
+{
+  "name": "connectOr",
+  "version": "1.0.0",
+  "description": "Initial connections",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:bchandramouli/connectOr.git"
+  },
+  "keywords": [
+    "github",
+    "linkedin"
+  ],
+  "author": "Chandramouli Balasubramanian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bchandramouli/connectOr/issues"
+  },
+  "homepage": "https://github.com/bchandramouli/connectOr",
+  "dependencies": {
+    "express": "^4.10.7",
+    "jsonwebtoken": "^3.2.1",
+    "lodash": "^2.4.1",
+    "mongoose": "^3.8.21"
+  }
+}
